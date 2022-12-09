@@ -122,3 +122,19 @@ body {
 }
 
 /* portfolio style end */
+
+/* footer style start */
+
+.footer{
+    padding-top: 45px;
+    padding-bottom: 130px;
+    background: #1E4776;
+
+
+}
+
+.footer-row{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
