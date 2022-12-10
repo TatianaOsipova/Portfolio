@@ -94,6 +94,11 @@ body {
     background-color: white;
     box-shadow: 0px 10px 40px rgba(126, 155, 189, 0.35);
     margin-bottom: 30px;
+    transition: transform 0.2s ease-in;
+}
+
+.card:hover{
+    transform: translateY(-15px);
 }
 
 .card-link{
@@ -101,6 +106,7 @@ body {
     padding: 20px;
     text-decoration: none;
     color: #000000;
+    transition: transform 0.2s ease-in;
 }
 
 .card-link:hover{
@@ -257,6 +263,14 @@ body {
     font-size: 16px;
     text-transform: uppercase;
     text-decoration: none;
+    transition: all 0.2s ease-in;
 }
+
+.project-btn-back:hover{
+    background-color:#275bec;
+    color: #FFFFFF;
+}
+
+
 
 /* project style end */
