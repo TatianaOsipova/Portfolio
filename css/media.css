@@ -94,6 +94,16 @@
         margin: 0;
         margin-top: 15px;
     }
+
+    .project {
+        padding: 40px 0 6px;
+
+    }
+
+    .project-header {
+        font-size: 28px;
+        margin-bottom: 30px;
+    }
 }
 
 
