@@ -23,8 +23,6 @@
     .footer-col:first-child {
         margin-bottom: 0;
     }
-
-
 }
 
 @media(max-width: 760px) {
@@ -76,6 +74,29 @@
         font-size: 14px;
     }
 
+    .footer-copyright-name {
+        font-size: 18px;
+        margin-bottom: 5px;
+    }
+
+    .footer-copyright p {
+        font-size: 14px;
+    }
+
+    .footer-icons {
+        font-size: 14px;
+    }
+
+    .footer-contacts {
+        font-size: 14px;
+        margin: 0;
+        margin-top: 15px;
+    }
+
+    .footer-button{
+        padding: 0 15px;
+    }
+
     .project {
         padding: 40px 0 60px;
     }
@@ -98,37 +119,6 @@
         width: 100%;
         max-width: 320px;
     }
-
-    .footer-copyright-name {
-        font-size: 18px;
-        margin-bottom: 5px;
-    }
-
-    .footer-copyright p {
-        font-size: 14px;
-    }
-
-    .footer-icons {
-        font-size: 14px;
-    }
-
-    .footer-contacts {
-        font-size: 14px;
-        margin: 0;
-        margin-top: 15px;
-    }
-
-    
-
-
 }
-
-
-
-
-
-
-
-
 
 /* adaptive end */
