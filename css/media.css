@@ -1,0 +1,21 @@
+/* adaptive start */
+
+@media(max-width: 1140px){
+
+}
+
+@media(max-width: 760px){    
+    .header-title{
+        font-size: 32px;
+    }
+
+    .header-subtitle{
+        font-size: 14px;
+    }
+
+}
+
+
+
+/* adaptive end */
+
